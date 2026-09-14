@@ -1,0 +1,17 @@
+{
+  "_comment": "Background options for the show. First entry is the default. Drop a file in here and add it to this list — nothing else needs editing. Entries in _shared are offered after the show's own. Real event photography leads; the stock aerials sit behind it.",
+  "hesh-2026": [
+    { "file": "parrot.jpg",         "label": "Parrot" },
+    { "file": "entrance.jpg",       "label": "Entrance" },
+    { "file": "vinyl-market-2.jpg", "label": "Vinyl Market" },
+    { "file": "vinyl-market.jpg",   "label": "Records" },
+    { "file": "dubai.avif",         "label": "Dubai" },
+    { "file": "silicon-oasis.jpg",  "label": "Silicon Oasis" }
+  ],
+  "_shared": [
+    { "file": "neutral-1.png", "label": "Ember" },
+    { "file": "neutral-2.png", "label": "Glow" },
+    { "file": "neutral-3.png", "label": "Onyx" }
+  ],
+  "default": []
+}
